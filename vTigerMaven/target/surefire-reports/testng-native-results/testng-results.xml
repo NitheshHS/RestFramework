@@ -1,0 +1,1047 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="11" passed="11">
+  <reporter-output>
+    <line>
+      <![CDATA[log in to vTiger]]>
+    </line>
+    <line>
+      <![CDATA[click on create contact Link]]>
+    </line>
+    <line>
+      <![CDATA[Select salutaion]]>
+    </line>
+    <line>
+      <![CDATA[enter firstname]]>
+    </line>
+    <line>
+      <![CDATA[enter lastname]]>
+    </line>
+    <line>
+      <![CDATA[move to user icon]]>
+    </line>
+    <line>
+      <![CDATA[click on signoutLink]]>
+    </line>
+    <line>
+      <![CDATA[log in to vTiger]]>
+    </line>
+    <line>
+      <![CDATA[click on create contact Link]]>
+    </line>
+    <line>
+      <![CDATA[Select salutaion]]>
+    </line>
+    <line>
+      <![CDATA[enter firstname]]>
+    </line>
+    <line>
+      <![CDATA[enter lastname]]>
+    </line>
+    <line>
+      <![CDATA[move to user icon]]>
+    </line>
+    <line>
+      <![CDATA[click on signoutLink]]>
+    </line>
+    <line>
+      <![CDATA[log in to vTiger]]>
+    </line>
+    <line>
+      <![CDATA[Click on leadLink]]>
+    </line>
+    <line>
+      <![CDATA[click on create lead icon(+)]]>
+    </line>
+    <line>
+      <![CDATA[saluating first name]]>
+    </line>
+    <line>
+      <![CDATA[enter first name]]>
+    </line>
+    <line>
+      <![CDATA[enter last name]]>
+    </line>
+    <line>
+      <![CDATA[enter company name]]>
+    </line>
+    <line>
+      <![CDATA[enter designation]]>
+    </line>
+    <line>
+      <![CDATA[Saluating leadsource]]>
+    </line>
+    <line>
+      <![CDATA[saluating industry]]>
+    </line>
+    <line>
+      <![CDATA[enter annual revenue]]>
+    </line>
+    <line>
+      <![CDATA[enter Employees]]>
+    </line>
+    <line>
+      <![CDATA[enter secondary mail]]>
+    </line>
+    <line>
+      <![CDATA[enter phone no]]>
+    </line>
+    <line>
+      <![CDATA[enter mobile no]]>
+    </line>
+    <line>
+      <![CDATA[enter fax]]>
+    </line>
+    <line>
+      <![CDATA[enter email]]>
+    </line>
+    <line>
+      <![CDATA[enter website]]>
+    </line>
+    <line>
+      <![CDATA[saluating leadstatus]]>
+    </line>
+    <line>
+      <![CDATA[saluating drop]]>
+    </line>
+    <line>
+      <![CDATA[click on save]]>
+    </line>
+    <line>
+      <![CDATA[comparing actual with expected]]>
+    </line>
+    <line>
+      <![CDATA[move to user icon]]>
+    </line>
+    <line>
+      <![CDATA[click on signoutLink]]>
+    </line>
+    <line>
+      <![CDATA[log in to vTiger]]>
+    </line>
+    <line>
+      <![CDATA[Click on leadLink]]>
+    </line>
+    <line>
+      <![CDATA[click on create lead icon(+)]]>
+    </line>
+    <line>
+      <![CDATA[saluating first name]]>
+    </line>
+    <line>
+      <![CDATA[enter first name]]>
+    </line>
+    <line>
+      <![CDATA[enter last name]]>
+    </line>
+    <line>
+      <![CDATA[enter company name]]>
+    </line>
+    <line>
+      <![CDATA[enter designation]]>
+    </line>
+    <line>
+      <![CDATA[Saluating leadsource]]>
+    </line>
+    <line>
+      <![CDATA[saluating industry]]>
+    </line>
+    <line>
+      <![CDATA[enter annual revenue]]>
+    </line>
+    <line>
+      <![CDATA[enter Employees]]>
+    </line>
+    <line>
+      <![CDATA[enter secondary mail]]>
+    </line>
+    <line>
+      <![CDATA[enter phone no]]>
+    </line>
+    <line>
+      <![CDATA[enter mobile no]]>
+    </line>
+    <line>
+      <![CDATA[enter fax]]>
+    </line>
+    <line>
+      <![CDATA[enter email]]>
+    </line>
+    <line>
+      <![CDATA[enter website]]>
+    </line>
+    <line>
+      <![CDATA[saluating leadstatus]]>
+    </line>
+    <line>
+      <![CDATA[saluating drop]]>
+    </line>
+    <line>
+      <![CDATA[click on save]]>
+    </line>
+    <line>
+      <![CDATA[comparing actual with expected]]>
+    </line>
+    <line>
+      <![CDATA[move to user icon]]>
+    </line>
+    <line>
+      <![CDATA[click on signoutLink]]>
+    </line>
+    <line>
+      <![CDATA[log in to vTiger]]>
+    </line>
+    <line>
+      <![CDATA[click on organization link in home page]]>
+    </line>
+    <line>
+      <![CDATA[click on create organization(+)]]>
+    </line>
+    <line>
+      <![CDATA[enter organization name]]>
+    </line>
+    <line>
+      <![CDATA[click on save button]]>
+    </line>
+    <line>
+      <![CDATA[Verify expected result with actual reault]]>
+    </line>
+    <line>
+      <![CDATA[move to user icon]]>
+    </line>
+    <line>
+      <![CDATA[click on signoutLink]]>
+    </line>
+    <line>
+      <![CDATA[log in to vTiger]]>
+    </line>
+    <line>
+      <![CDATA[move to user icon]]>
+    </line>
+    <line>
+      <![CDATA[click on signoutLink]]>
+    </line>
+    <line>
+      <![CDATA[log in to vTiger]]>
+    </line>
+    <line>
+      <![CDATA[move to more link]]>
+    </line>
+    <line>
+      <![CDATA[click on vendor Icon]]>
+    </line>
+    <line>
+      <![CDATA[enter vendor name]]>
+    </line>
+    <line>
+      <![CDATA[click on save]]>
+    </line>
+    <line>
+      <![CDATA[move to user icon]]>
+    </line>
+    <line>
+      <![CDATA[click on signoutLink]]>
+    </line>
+    <line>
+      <![CDATA[log in to vTiger]]>
+    </line>
+    <line>
+      <![CDATA[click on conatct link]]>
+    </line>
+    <line>
+      <![CDATA[click on checkbox]]>
+    </line>
+    <line>
+      <![CDATA[click on delete button]]>
+    </line>
+    <line>
+      <![CDATA[move to user icon]]>
+    </line>
+    <line>
+      <![CDATA[click on signoutLink]]>
+    </line>
+    <line>
+      <![CDATA[log in to vTiger]]>
+    </line>
+    <line>
+      <![CDATA[click on organization link in home page]]>
+    </line>
+    <line>
+      <![CDATA[click on check box]]>
+    </line>
+    <line>
+      <![CDATA[click on delete button]]>
+    </line>
+    <line>
+      <![CDATA[move to user icon]]>
+    </line>
+    <line>
+      <![CDATA[click on signoutLink]]>
+    </line>
+    <line>
+      <![CDATA[log in to vTiger]]>
+    </line>
+    <line>
+      <![CDATA[delete lead]]>
+    </line>
+    <line>
+      <![CDATA[move to user icon]]>
+    </line>
+    <line>
+      <![CDATA[click on signoutLink]]>
+    </line>
+    <line>
+      <![CDATA[log in to vTiger]]>
+    </line>
+    <line>
+      <![CDATA[move to more link]]>
+    </line>
+    <line>
+      <![CDATA[delete vendor]]>
+    </line>
+    <line>
+      <![CDATA[move to user icon]]>
+    </line>
+    <line>
+      <![CDATA[click on signoutLink]]>
+    </line>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="273802" started-at="2020-06-08T06:35:27Z" finished-at="2020-06-08T06:40:01Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="273802" started-at="2020-06-08T06:35:27Z" finished-at="2020-06-08T06:40:01Z">
+      <class name="com.vTiger.testscripts.CreateOrganizationTest">
+        <test-method status="PASS" signature="configBc()[pri:0, instance:com.vTiger.testscripts.CreateOrganizationTest@7946e1f4]" name="configBc" is-config="true" duration-ms="5991" started-at="2020-06-08T06:37:19Z" finished-at="2020-06-08T06:37:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBc -->
+        <test-method status="PASS" signature="configBM()[pri:0, instance:com.vTiger.testscripts.CreateOrganizationTest@7946e1f4]" name="configBM" is-config="true" duration-ms="5264" started-at="2020-06-08T06:37:25Z" finished-at="2020-06-08T06:37:30Z">
+          <reporter-output>
+            <line>
+              <![CDATA[log in to vTiger]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method status="PASS" signature="createOrganization()[pri:0, instance:com.vTiger.testscripts.CreateOrganizationTest@7946e1f4]" name="createOrganization" duration-ms="15187" started-at="2020-06-08T06:37:30Z" finished-at="2020-06-08T06:37:45Z">
+          <reporter-output>
+            <line>
+              <![CDATA[click on organization link in home page]]>
+            </line>
+            <line>
+              <![CDATA[click on create organization(+)]]>
+            </line>
+            <line>
+              <![CDATA[enter organization name]]>
+            </line>
+            <line>
+              <![CDATA[click on save button]]>
+            </line>
+            <line>
+              <![CDATA[Verify expected result with actual reault]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- createOrganization -->
+        <test-method status="PASS" signature="configAm()[pri:0, instance:com.vTiger.testscripts.CreateOrganizationTest@7946e1f4]" name="configAm" is-config="true" duration-ms="2008" started-at="2020-06-08T06:37:45Z" finished-at="2020-06-08T06:37:47Z">
+          <reporter-output>
+            <line>
+              <![CDATA[move to user icon]]>
+            </line>
+            <line>
+              <![CDATA[click on signoutLink]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- configAm -->
+        <test-method status="PASS" signature="configAc()[pri:0, instance:com.vTiger.testscripts.CreateOrganizationTest@7946e1f4]" name="configAc" is-config="true" duration-ms="460" started-at="2020-06-08T06:37:47Z" finished-at="2020-06-08T06:37:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAc -->
+      </class> <!-- com.vTiger.testscripts.CreateOrganizationTest -->
+      <class name="com.vTiger.testscripts.CreateContactTest">
+        <test-method status="PASS" signature="configBc()[pri:0, instance:com.vTiger.testscripts.CreateContactTest@39fb3ab6]" name="configBc" is-config="true" duration-ms="7770" started-at="2020-06-08T06:35:27Z" finished-at="2020-06-08T06:35:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBc -->
+        <test-method status="PASS" signature="configBM()[pri:0, instance:com.vTiger.testscripts.CreateContactTest@39fb3ab6]" name="configBM" is-config="true" duration-ms="12651" started-at="2020-06-08T06:35:37Z" finished-at="2020-06-08T06:35:49Z">
+          <reporter-output>
+            <line>
+              <![CDATA[log in to vTiger]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method status="PASS" signature="createContact(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.vTiger.testscripts.CreateContactTest@39fb3ab6]" name="createContact" duration-ms="14513" started-at="2020-06-08T06:35:49Z" data-provider="readdata" finished-at="2020-06-08T06:36:04Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Mr.]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[nithesh]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[gowda]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[click on create contact Link]]>
+            </line>
+            <line>
+              <![CDATA[Select salutaion]]>
+            </line>
+            <line>
+              <![CDATA[enter firstname]]>
+            </line>
+            <line>
+              <![CDATA[enter lastname]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- createContact -->
+        <test-method status="PASS" signature="configAm()[pri:0, instance:com.vTiger.testscripts.CreateContactTest@39fb3ab6]" name="configAm" is-config="true" duration-ms="1986" started-at="2020-06-08T06:36:04Z" finished-at="2020-06-08T06:36:06Z">
+          <reporter-output>
+            <line>
+              <![CDATA[move to user icon]]>
+            </line>
+            <line>
+              <![CDATA[click on signoutLink]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- configAm -->
+        <test-method status="PASS" signature="configBM()[pri:0, instance:com.vTiger.testscripts.CreateContactTest@39fb3ab6]" name="configBM" is-config="true" duration-ms="3058" started-at="2020-06-08T06:36:06Z" finished-at="2020-06-08T06:36:09Z">
+          <reporter-output>
+            <line>
+              <![CDATA[log in to vTiger]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method status="PASS" signature="createContact(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.vTiger.testscripts.CreateContactTest@39fb3ab6]" name="createContact" duration-ms="12615" started-at="2020-06-08T06:36:09Z" data-provider="readdata" finished-at="2020-06-08T06:36:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Mr.]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Alex]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[watson]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[click on create contact Link]]>
+            </line>
+            <line>
+              <![CDATA[Select salutaion]]>
+            </line>
+            <line>
+              <![CDATA[enter firstname]]>
+            </line>
+            <line>
+              <![CDATA[enter lastname]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- createContact -->
+        <test-method status="PASS" signature="configAm()[pri:0, instance:com.vTiger.testscripts.CreateContactTest@39fb3ab6]" name="configAm" is-config="true" duration-ms="1779" started-at="2020-06-08T06:36:21Z" finished-at="2020-06-08T06:36:23Z">
+          <reporter-output>
+            <line>
+              <![CDATA[move to user icon]]>
+            </line>
+            <line>
+              <![CDATA[click on signoutLink]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- configAm -->
+        <test-method status="PASS" signature="configAc()[pri:0, instance:com.vTiger.testscripts.CreateContactTest@39fb3ab6]" name="configAc" is-config="true" duration-ms="1867" started-at="2020-06-08T06:36:23Z" finished-at="2020-06-08T06:36:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAc -->
+      </class> <!-- com.vTiger.testscripts.CreateContactTest -->
+      <class name="com.vTiger.testscripts.DeleteVendorTest">
+        <test-method status="PASS" signature="configBc()[pri:0, instance:com.vTiger.testscripts.DeleteVendorTest@5056dfcb]" name="configBc" is-config="true" duration-ms="4521" started-at="2020-06-08T06:39:41Z" finished-at="2020-06-08T06:39:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBc -->
+        <test-method status="PASS" signature="configBM()[pri:0, instance:com.vTiger.testscripts.DeleteVendorTest@5056dfcb]" name="configBM" is-config="true" duration-ms="3953" started-at="2020-06-08T06:39:46Z" finished-at="2020-06-08T06:39:50Z">
+          <reporter-output>
+            <line>
+              <![CDATA[log in to vTiger]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method status="PASS" signature="deletevendor()[pri:0, instance:com.vTiger.testscripts.DeleteVendorTest@5056dfcb]" name="deletevendor" duration-ms="5961" started-at="2020-06-08T06:39:50Z" finished-at="2020-06-08T06:39:56Z">
+          <reporter-output>
+            <line>
+              <![CDATA[move to more link]]>
+            </line>
+            <line>
+              <![CDATA[delete vendor]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- deletevendor -->
+        <test-method status="PASS" signature="configAm()[pri:0, instance:com.vTiger.testscripts.DeleteVendorTest@5056dfcb]" name="configAm" is-config="true" duration-ms="4688" started-at="2020-06-08T06:39:56Z" finished-at="2020-06-08T06:40:00Z">
+          <reporter-output>
+            <line>
+              <![CDATA[move to user icon]]>
+            </line>
+            <line>
+              <![CDATA[click on signoutLink]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- configAm -->
+        <test-method status="PASS" signature="configAc()[pri:0, instance:com.vTiger.testscripts.DeleteVendorTest@5056dfcb]" name="configAc" is-config="true" duration-ms="285" started-at="2020-06-08T06:40:00Z" finished-at="2020-06-08T06:40:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAc -->
+      </class> <!-- com.vTiger.testscripts.DeleteVendorTest -->
+      <class name="com.vTiger.testscripts.DeleteAllContactTest">
+        <test-method status="PASS" signature="configBc()[pri:0, instance:com.vTiger.testscripts.DeleteAllContactTest@b97c004]" name="configBc" is-config="true" duration-ms="4622" started-at="2020-06-08T06:38:42Z" finished-at="2020-06-08T06:38:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBc -->
+        <test-method status="PASS" signature="configBM()[pri:0, instance:com.vTiger.testscripts.DeleteAllContactTest@b97c004]" name="configBM" is-config="true" duration-ms="3835" started-at="2020-06-08T06:38:47Z" finished-at="2020-06-08T06:38:51Z">
+          <reporter-output>
+            <line>
+              <![CDATA[log in to vTiger]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method status="PASS" signature="deleteAllContact()[pri:0, instance:com.vTiger.testscripts.DeleteAllContactTest@b97c004]" name="deleteAllContact" duration-ms="9238" started-at="2020-06-08T06:38:51Z" finished-at="2020-06-08T06:39:00Z">
+          <reporter-output>
+            <line>
+              <![CDATA[click on conatct link]]>
+            </line>
+            <line>
+              <![CDATA[click on checkbox]]>
+            </line>
+            <line>
+              <![CDATA[click on delete button]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- deleteAllContact -->
+        <test-method status="PASS" signature="configAm()[pri:0, instance:com.vTiger.testscripts.DeleteAllContactTest@b97c004]" name="configAm" is-config="true" duration-ms="1845" started-at="2020-06-08T06:39:00Z" finished-at="2020-06-08T06:39:02Z">
+          <reporter-output>
+            <line>
+              <![CDATA[move to user icon]]>
+            </line>
+            <line>
+              <![CDATA[click on signoutLink]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- configAm -->
+        <test-method status="PASS" signature="configAc()[pri:0, instance:com.vTiger.testscripts.DeleteAllContactTest@b97c004]" name="configAc" is-config="true" duration-ms="304" started-at="2020-06-08T06:39:02Z" finished-at="2020-06-08T06:39:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAc -->
+      </class> <!-- com.vTiger.testscripts.DeleteAllContactTest -->
+      <class name="com.vTiger.testscripts.CreateLeadTest">
+        <test-method status="PASS" signature="configBc()[pri:0, instance:com.vTiger.testscripts.CreateLeadTest@6276ae34]" name="configBc" is-config="true" duration-ms="4664" started-at="2020-06-08T06:36:25Z" finished-at="2020-06-08T06:36:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBc -->
+        <test-method status="PASS" signature="configBM()[pri:0, instance:com.vTiger.testscripts.CreateLeadTest@6276ae34]" name="configBM" is-config="true" duration-ms="4325" started-at="2020-06-08T06:36:30Z" finished-at="2020-06-08T06:36:34Z">
+          <reporter-output>
+            <line>
+              <![CDATA[log in to vTiger]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method status="PASS" signature="createLead(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.vTiger.testscripts.CreateLeadTest@6276ae34]" name="createLead" duration-ms="22148" started-at="2020-06-08T06:36:34Z" data-provider="readdata" finished-at="2020-06-08T06:36:56Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Mr.]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Alexander]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[ peter]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[google]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Mannual]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Self Generated]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Communications]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[123456]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[456]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[www.apachepoi@gmail.com]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[987654321]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[123456789]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[fax]]>
+              </value>
+            </param>
+            <param index="13">
+              <value>
+                <![CDATA[www.apache@gmail.com]]>
+              </value>
+            </param>
+            <param index="14">
+              <value>
+                <![CDATA[apache.com]]>
+              </value>
+            </param>
+            <param index="15">
+              <value>
+                <![CDATA[Hot]]>
+              </value>
+            </param>
+            <param index="16">
+              <value>
+                <![CDATA[Active]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Click on leadLink]]>
+            </line>
+            <line>
+              <![CDATA[click on create lead icon(+)]]>
+            </line>
+            <line>
+              <![CDATA[saluating first name]]>
+            </line>
+            <line>
+              <![CDATA[enter first name]]>
+            </line>
+            <line>
+              <![CDATA[enter last name]]>
+            </line>
+            <line>
+              <![CDATA[enter company name]]>
+            </line>
+            <line>
+              <![CDATA[enter designation]]>
+            </line>
+            <line>
+              <![CDATA[Saluating leadsource]]>
+            </line>
+            <line>
+              <![CDATA[saluating industry]]>
+            </line>
+            <line>
+              <![CDATA[enter annual revenue]]>
+            </line>
+            <line>
+              <![CDATA[enter Employees]]>
+            </line>
+            <line>
+              <![CDATA[enter secondary mail]]>
+            </line>
+            <line>
+              <![CDATA[enter phone no]]>
+            </line>
+            <line>
+              <![CDATA[enter mobile no]]>
+            </line>
+            <line>
+              <![CDATA[enter fax]]>
+            </line>
+            <line>
+              <![CDATA[enter email]]>
+            </line>
+            <line>
+              <![CDATA[enter website]]>
+            </line>
+            <line>
+              <![CDATA[saluating leadstatus]]>
+            </line>
+            <line>
+              <![CDATA[saluating drop]]>
+            </line>
+            <line>
+              <![CDATA[click on save]]>
+            </line>
+            <line>
+              <![CDATA[comparing actual with expected]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- createLead -->
+        <test-method status="PASS" signature="configAm()[pri:0, instance:com.vTiger.testscripts.CreateLeadTest@6276ae34]" name="configAm" is-config="true" duration-ms="1718" started-at="2020-06-08T06:36:56Z" finished-at="2020-06-08T06:36:58Z">
+          <reporter-output>
+            <line>
+              <![CDATA[move to user icon]]>
+            </line>
+            <line>
+              <![CDATA[click on signoutLink]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- configAm -->
+        <test-method status="PASS" signature="configBM()[pri:0, instance:com.vTiger.testscripts.CreateLeadTest@6276ae34]" name="configBM" is-config="true" duration-ms="3311" started-at="2020-06-08T06:36:58Z" finished-at="2020-06-08T06:37:01Z">
+          <reporter-output>
+            <line>
+              <![CDATA[log in to vTiger]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method status="PASS" signature="createLead(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.vTiger.testscripts.CreateLeadTest@6276ae34]" name="createLead" duration-ms="15240" started-at="2020-06-08T06:37:01Z" data-provider="readdata" finished-at="2020-06-08T06:37:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Mr.]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Watson]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[peter]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[facebook]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Automation]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Self Generated]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Communications]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[54316313]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[165]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[www.watson2@gmail.com]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[2154513]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[215132165]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[fax]]>
+              </value>
+            </param>
+            <param index="13">
+              <value>
+                <![CDATA[www.watson1@gmail.com]]>
+              </value>
+            </param>
+            <param index="14">
+              <value>
+                <![CDATA[watson.com]]>
+              </value>
+            </param>
+            <param index="15">
+              <value>
+                <![CDATA[Hot]]>
+              </value>
+            </param>
+            <param index="16">
+              <value>
+                <![CDATA[Active]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Click on leadLink]]>
+            </line>
+            <line>
+              <![CDATA[click on create lead icon(+)]]>
+            </line>
+            <line>
+              <![CDATA[saluating first name]]>
+            </line>
+            <line>
+              <![CDATA[enter first name]]>
+            </line>
+            <line>
+              <![CDATA[enter last name]]>
+            </line>
+            <line>
+              <![CDATA[enter company name]]>
+            </line>
+            <line>
+              <![CDATA[enter designation]]>
+            </line>
+            <line>
+              <![CDATA[Saluating leadsource]]>
+            </line>
+            <line>
+              <![CDATA[saluating industry]]>
+            </line>
+            <line>
+              <![CDATA[enter annual revenue]]>
+            </line>
+            <line>
+              <![CDATA[enter Employees]]>
+            </line>
+            <line>
+              <![CDATA[enter secondary mail]]>
+            </line>
+            <line>
+              <![CDATA[enter phone no]]>
+            </line>
+            <line>
+              <![CDATA[enter mobile no]]>
+            </line>
+            <line>
+              <![CDATA[enter fax]]>
+            </line>
+            <line>
+              <![CDATA[enter email]]>
+            </line>
+            <line>
+              <![CDATA[enter website]]>
+            </line>
+            <line>
+              <![CDATA[saluating leadstatus]]>
+            </line>
+            <line>
+              <![CDATA[saluating drop]]>
+            </line>
+            <line>
+              <![CDATA[click on save]]>
+            </line>
+            <line>
+              <![CDATA[comparing actual with expected]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- createLead -->
+        <test-method status="PASS" signature="configAm()[pri:0, instance:com.vTiger.testscripts.CreateLeadTest@6276ae34]" name="configAm" is-config="true" duration-ms="1792" started-at="2020-06-08T06:37:17Z" finished-at="2020-06-08T06:37:18Z">
+          <reporter-output>
+            <line>
+              <![CDATA[move to user icon]]>
+            </line>
+            <line>
+              <![CDATA[click on signoutLink]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- configAm -->
+        <test-method status="PASS" signature="configAc()[pri:0, instance:com.vTiger.testscripts.CreateLeadTest@6276ae34]" name="configAc" is-config="true" duration-ms="251" started-at="2020-06-08T06:37:18Z" finished-at="2020-06-08T06:37:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAc -->
+      </class> <!-- com.vTiger.testscripts.CreateLeadTest -->
+      <class name="com.vTiger.testscripts.DeleteLeadTest">
+        <test-method status="PASS" signature="configBc()[pri:0, instance:com.vTiger.testscripts.DeleteLeadTest@32e6e9c3]" name="configBc" is-config="true" duration-ms="4556" started-at="2020-06-08T06:39:22Z" finished-at="2020-06-08T06:39:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBc -->
+        <test-method status="PASS" signature="configBM()[pri:0, instance:com.vTiger.testscripts.DeleteLeadTest@32e6e9c3]" name="configBM" is-config="true" duration-ms="5318" started-at="2020-06-08T06:39:26Z" finished-at="2020-06-08T06:39:32Z">
+          <reporter-output>
+            <line>
+              <![CDATA[log in to vTiger]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method status="PASS" signature="deleteLead()[pri:0, instance:com.vTiger.testscripts.DeleteLeadTest@32e6e9c3]" name="deleteLead" duration-ms="7554" started-at="2020-06-08T06:39:32Z" finished-at="2020-06-08T06:39:39Z">
+          <reporter-output>
+            <line>
+              <![CDATA[delete lead]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- deleteLead -->
+        <test-method status="PASS" signature="configAm()[pri:0, instance:com.vTiger.testscripts.DeleteLeadTest@32e6e9c3]" name="configAm" is-config="true" duration-ms="1865" started-at="2020-06-08T06:39:39Z" finished-at="2020-06-08T06:39:41Z">
+          <reporter-output>
+            <line>
+              <![CDATA[move to user icon]]>
+            </line>
+            <line>
+              <![CDATA[click on signoutLink]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- configAm -->
+        <test-method status="PASS" signature="configAc()[pri:0, instance:com.vTiger.testscripts.DeleteLeadTest@32e6e9c3]" name="configAc" is-config="true" duration-ms="122" started-at="2020-06-08T06:39:41Z" finished-at="2020-06-08T06:39:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAc -->
+      </class> <!-- com.vTiger.testscripts.DeleteLeadTest -->
+      <class name="com.vTiger.testscripts.CreateProductTest">
+        <test-method status="PASS" signature="configBc()[pri:0, instance:com.vTiger.testscripts.CreateProductTest@3c09711b]" name="configBc" is-config="true" duration-ms="4673" started-at="2020-06-08T06:37:48Z" finished-at="2020-06-08T06:37:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBc -->
+        <test-method status="PASS" signature="configBM()[pri:0, instance:com.vTiger.testscripts.CreateProductTest@3c09711b]" name="configBM" is-config="true" duration-ms="4066" started-at="2020-06-08T06:37:52Z" finished-at="2020-06-08T06:37:56Z">
+          <reporter-output>
+            <line>
+              <![CDATA[log in to vTiger]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method status="PASS" signature="createproduct()[pri:0, instance:com.vTiger.testscripts.CreateProductTest@3c09711b]" name="createproduct" duration-ms="15102" started-at="2020-06-08T06:37:56Z" finished-at="2020-06-08T06:38:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createproduct -->
+        <test-method status="PASS" signature="configAm()[pri:0, instance:com.vTiger.testscripts.CreateProductTest@3c09711b]" name="configAm" is-config="true" duration-ms="2101" started-at="2020-06-08T06:38:11Z" finished-at="2020-06-08T06:38:13Z">
+          <reporter-output>
+            <line>
+              <![CDATA[move to user icon]]>
+            </line>
+            <line>
+              <![CDATA[click on signoutLink]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- configAm -->
+        <test-method status="PASS" signature="configAc()[pri:0, instance:com.vTiger.testscripts.CreateProductTest@3c09711b]" name="configAc" is-config="true" duration-ms="333" started-at="2020-06-08T06:38:13Z" finished-at="2020-06-08T06:38:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAc -->
+      </class> <!-- com.vTiger.testscripts.CreateProductTest -->
+      <class name="com.vTiger.testscripts.CreateVendorTest">
+        <test-method status="PASS" signature="configBc()[pri:0, instance:com.vTiger.testscripts.CreateVendorTest@5cc7c2a6]" name="configBc" is-config="true" duration-ms="5447" started-at="2020-06-08T06:38:14Z" finished-at="2020-06-08T06:38:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBc -->
+        <test-method status="PASS" signature="configBM()[pri:0, instance:com.vTiger.testscripts.CreateVendorTest@5cc7c2a6]" name="configBM" is-config="true" duration-ms="6658" started-at="2020-06-08T06:38:19Z" finished-at="2020-06-08T06:38:26Z">
+          <reporter-output>
+            <line>
+              <![CDATA[log in to vTiger]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method status="PASS" signature="createVendor()[pri:0, instance:com.vTiger.testscripts.CreateVendorTest@5cc7c2a6]" name="createVendor" duration-ms="14107" started-at="2020-06-08T06:38:26Z" finished-at="2020-06-08T06:38:40Z">
+          <reporter-output>
+            <line>
+              <![CDATA[move to more link]]>
+            </line>
+            <line>
+              <![CDATA[click on vendor Icon]]>
+            </line>
+            <line>
+              <![CDATA[enter vendor name]]>
+            </line>
+            <line>
+              <![CDATA[click on save]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- createVendor -->
+        <test-method status="PASS" signature="configAm()[pri:0, instance:com.vTiger.testscripts.CreateVendorTest@5cc7c2a6]" name="configAm" is-config="true" duration-ms="1973" started-at="2020-06-08T06:38:40Z" finished-at="2020-06-08T06:38:42Z">
+          <reporter-output>
+            <line>
+              <![CDATA[move to user icon]]>
+            </line>
+            <line>
+              <![CDATA[click on signoutLink]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- configAm -->
+        <test-method status="PASS" signature="configAc()[pri:0, instance:com.vTiger.testscripts.CreateVendorTest@5cc7c2a6]" name="configAc" is-config="true" duration-ms="363" started-at="2020-06-08T06:38:42Z" finished-at="2020-06-08T06:38:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAc -->
+      </class> <!-- com.vTiger.testscripts.CreateVendorTest -->
+      <class name="com.vTiger.testscripts.DeleteAllOrganizatioTest">
+        <test-method status="PASS" signature="configBc()[pri:0, instance:com.vTiger.testscripts.DeleteAllOrganizatioTest@4590c9c3]" name="configBc" is-config="true" duration-ms="4523" started-at="2020-06-08T06:39:02Z" finished-at="2020-06-08T06:39:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBc -->
+        <test-method status="PASS" signature="configBM()[pri:0, instance:com.vTiger.testscripts.DeleteAllOrganizatioTest@4590c9c3]" name="configBM" is-config="true" duration-ms="4065" started-at="2020-06-08T06:39:07Z" finished-at="2020-06-08T06:39:11Z">
+          <reporter-output>
+            <line>
+              <![CDATA[log in to vTiger]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method status="PASS" signature="deleteOrg()[pri:0, instance:com.vTiger.testscripts.DeleteAllOrganizatioTest@4590c9c3]" name="deleteOrg" duration-ms="8905" started-at="2020-06-08T06:39:11Z" finished-at="2020-06-08T06:39:20Z">
+          <reporter-output>
+            <line>
+              <![CDATA[click on organization link in home page]]>
+            </line>
+            <line>
+              <![CDATA[click on check box]]>
+            </line>
+            <line>
+              <![CDATA[click on delete button]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- deleteOrg -->
+        <test-method status="PASS" signature="configAm()[pri:0, instance:com.vTiger.testscripts.DeleteAllOrganizatioTest@4590c9c3]" name="configAm" is-config="true" duration-ms="1845" started-at="2020-06-08T06:39:20Z" finished-at="2020-06-08T06:39:22Z">
+          <reporter-output>
+            <line>
+              <![CDATA[move to user icon]]>
+            </line>
+            <line>
+              <![CDATA[click on signoutLink]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- configAm -->
+        <test-method status="PASS" signature="configAc()[pri:0, instance:com.vTiger.testscripts.DeleteAllOrganizatioTest@4590c9c3]" name="configAc" is-config="true" duration-ms="292" started-at="2020-06-08T06:39:22Z" finished-at="2020-06-08T06:39:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAc -->
+      </class> <!-- com.vTiger.testscripts.DeleteAllOrganizatioTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>

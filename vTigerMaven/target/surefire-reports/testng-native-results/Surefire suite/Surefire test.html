@@ -1,0 +1,262 @@
+<html>
+<head>
+<title>TestNG:  Surefire test</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>Surefire test</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>11/0/0</td>
+</tr><tr>
+<td>Started on:</td><td>Mon Jun 08 12:05:27 IST 2020</td>
+</tr>
+<tr><td>Total time:</td><td>273 seconds (273802 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='com.vTiger.testscripts.CreateContactTest.createContact()'><b>createContact</b><br>Test class: com.vTiger.testscripts.CreateContactTest<br>Parameters: Mr., nithesh, gowda<br/>
+<a href="#Output-998242313" onClick='toggleBox("Output-998242313", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-998242313" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-998242313">
+click on create contact Link<br/>
+Select salutaion<br/>
+enter firstname<br/>
+enter lastname<br/>
+</div>
+</td>
+<td></td>
+<td>14</td>
+<td>com.vTiger.testscripts.CreateContactTest@39fb3ab6</td></tr>
+<tr>
+<td title='com.vTiger.testscripts.CreateContactTest.createContact()'><b>createContact</b><br>Test class: com.vTiger.testscripts.CreateContactTest<br>Parameters: Mr., Alex, watson<br/>
+<a href="#Output-785625589" onClick='toggleBox("Output-785625589", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-785625589" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-785625589">
+click on create contact Link<br/>
+Select salutaion<br/>
+enter firstname<br/>
+enter lastname<br/>
+</div>
+</td>
+<td></td>
+<td>12</td>
+<td>com.vTiger.testscripts.CreateContactTest@39fb3ab6</td></tr>
+<tr>
+<td title='com.vTiger.testscripts.CreateLeadTest.createLead()'><b>createLead</b><br>Test class: com.vTiger.testscripts.CreateLeadTest<br>Parameters: Mr., Alexander,  peter, google, Mannual, Self Generated, Communications, 123456, 456, www.apachepoi@gmail.com, 987654321, 123456789, fax, www.apache@gmail.com, apache.com, Hot, Active<br/>
+<a href="#Output-829737737" onClick='toggleBox("Output-829737737", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-829737737" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-829737737">
+Click on leadLink<br/>
+click on create lead icon(+)<br/>
+saluating first name<br/>
+enter first name<br/>
+enter last name<br/>
+enter company name<br/>
+enter designation<br/>
+Saluating leadsource<br/>
+saluating industry<br/>
+enter annual revenue<br/>
+enter Employees<br/>
+enter secondary mail<br/>
+enter phone no<br/>
+enter mobile no<br/>
+enter fax<br/>
+enter email<br/>
+enter website<br/>
+saluating leadstatus<br/>
+saluating drop<br/>
+click on save<br/>
+comparing actual with expected<br/>
+</div>
+</td>
+<td></td>
+<td>22</td>
+<td>com.vTiger.testscripts.CreateLeadTest@6276ae34</td></tr>
+<tr>
+<td title='com.vTiger.testscripts.CreateLeadTest.createLead()'><b>createLead</b><br>Test class: com.vTiger.testscripts.CreateLeadTest<br>Parameters: Mr., Watson, peter, facebook, Automation, Self Generated, Communications, 54316313, 165, www.watson2@gmail.com, 2154513, 215132165, fax, www.watson1@gmail.com, watson.com, Hot, Active<br/>
+<a href="#Output-1943444495" onClick='toggleBox("Output-1943444495", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1943444495" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1943444495">
+Click on leadLink<br/>
+click on create lead icon(+)<br/>
+saluating first name<br/>
+enter first name<br/>
+enter last name<br/>
+enter company name<br/>
+enter designation<br/>
+Saluating leadsource<br/>
+saluating industry<br/>
+enter annual revenue<br/>
+enter Employees<br/>
+enter secondary mail<br/>
+enter phone no<br/>
+enter mobile no<br/>
+enter fax<br/>
+enter email<br/>
+enter website<br/>
+saluating leadstatus<br/>
+saluating drop<br/>
+click on save<br/>
+comparing actual with expected<br/>
+</div>
+</td>
+<td></td>
+<td>15</td>
+<td>com.vTiger.testscripts.CreateLeadTest@6276ae34</td></tr>
+<tr>
+<td title='com.vTiger.testscripts.CreateOrganizationTest.createOrganization()'><b>createOrganization</b><br>Test class: com.vTiger.testscripts.CreateOrganizationTest<br/>
+<a href="#Output-1269826537" onClick='toggleBox("Output-1269826537", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1269826537" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1269826537">
+click on organization link in home page<br/>
+click on create organization(+)<br/>
+enter organization name<br/>
+click on save button<br/>
+Verify expected result with actual reault<br/>
+</div>
+</td>
+<td></td>
+<td>15</td>
+<td>com.vTiger.testscripts.CreateOrganizationTest@7946e1f4</td></tr>
+<tr>
+<td title='com.vTiger.testscripts.CreateVendorTest.createVendor()'><b>createVendor</b><br>Test class: com.vTiger.testscripts.CreateVendorTest<br/>
+<a href="#Output-1714539364" onClick='toggleBox("Output-1714539364", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1714539364" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1714539364">
+move to more link<br/>
+click on vendor Icon<br/>
+enter vendor name<br/>
+click on save<br/>
+</div>
+</td>
+<td></td>
+<td>14</td>
+<td>com.vTiger.testscripts.CreateVendorTest@5cc7c2a6</td></tr>
+<tr>
+<td title='com.vTiger.testscripts.CreateProductTest.createproduct()'><b>createproduct</b><br>Test class: com.vTiger.testscripts.CreateProductTest</td>
+<td></td>
+<td>15</td>
+<td>com.vTiger.testscripts.CreateProductTest@3c09711b</td></tr>
+<tr>
+<td title='com.vTiger.testscripts.DeleteAllContactTest.deleteAllContact()'><b>deleteAllContact</b><br>Test class: com.vTiger.testscripts.DeleteAllContactTest<br/>
+<a href="#Output-837693403" onClick='toggleBox("Output-837693403", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-837693403" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-837693403">
+click on conatct link<br/>
+click on checkbox<br/>
+click on delete button<br/>
+</div>
+</td>
+<td></td>
+<td>9</td>
+<td>com.vTiger.testscripts.DeleteAllContactTest@b97c004</td></tr>
+<tr>
+<td title='com.vTiger.testscripts.DeleteLeadTest.deleteLead()'><b>deleteLead</b><br>Test class: com.vTiger.testscripts.DeleteLeadTest<br/>
+<a href="#Output-1687293378" onClick='toggleBox("Output-1687293378", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1687293378" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1687293378">
+delete lead<br/>
+</div>
+</td>
+<td></td>
+<td>7</td>
+<td>com.vTiger.testscripts.DeleteLeadTest@32e6e9c3</td></tr>
+<tr>
+<td title='com.vTiger.testscripts.DeleteAllOrganizatioTest.deleteOrg()'><b>deleteOrg</b><br>Test class: com.vTiger.testscripts.DeleteAllOrganizatioTest<br/>
+<a href="#Output-738590621" onClick='toggleBox("Output-738590621", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-738590621" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-738590621">
+click on organization link in home page<br/>
+click on check box<br/>
+click on delete button<br/>
+</div>
+</td>
+<td></td>
+<td>8</td>
+<td>com.vTiger.testscripts.DeleteAllOrganizatioTest@4590c9c3</td></tr>
+<tr>
+<td title='com.vTiger.testscripts.DeleteVendorTest.deletevendor()'><b>deletevendor</b><br>Test class: com.vTiger.testscripts.DeleteVendorTest<br/>
+<a href="#Output-2107105388" onClick='toggleBox("Output-2107105388", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-2107105388" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-2107105388">
+move to more link<br/>
+delete vendor<br/>
+</div>
+</td>
+<td></td>
+<td>5</td>
+<td>com.vTiger.testscripts.DeleteVendorTest@5056dfcb</td></tr>
+</table><p>
+</body>
+</html>

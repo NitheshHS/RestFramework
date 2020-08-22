@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="1" verbose="0" name="Failed suite [Surefire suite]">
+  <test thread-count="1" verbose="0" name="Surefire test(failed)">
+    <classes>
+      <class name="com.vTiger.testscripts.CreateContactTest">
+        <methods>
+          <include name="configAm"/>
+          <include name="configBc"/>
+          <include name="createContact"/>
+          <include name="configBM"/>
+          <include name="configAc"/>
+        </methods>
+      </class> <!-- com.vTiger.testscripts.CreateContactTest -->
+      <class name="com.vTiger.testscripts.CreateOrganizationTest">
+        <methods>
+          <include name="configAm"/>
+          <include name="configBc"/>
+          <include name="configBM"/>
+          <include name="configAc"/>
+          <include name="createOrganization"/>
+        </methods>
+      </class> <!-- com.vTiger.testscripts.CreateOrganizationTest -->
+      <class name="com.vTiger.testscripts.CreateProductTest">
+        <methods>
+          <include name="createproduct"/>
+          <include name="configAm"/>
+          <include name="configBc"/>
+          <include name="configBM"/>
+          <include name="configAc"/>
+        </methods>
+      </class> <!-- com.vTiger.testscripts.CreateProductTest -->
+      <class name="com.vTiger.testscripts.DeleteAllOrganizatioTest">
+        <methods>
+          <include name="configAm"/>
+          <include name="deleteOrg"/>
+          <include name="configBc"/>
+          <include name="configBM"/>
+          <include name="configAc"/>
+        </methods>
+      </class> <!-- com.vTiger.testscripts.DeleteAllOrganizatioTest -->
+      <class name="com.vTiger.testscripts.DeleteVendorTest">
+        <methods>
+          <include name="deletevendor"/>
+          <include name="configAm"/>
+          <include name="configBc"/>
+          <include name="configBM"/>
+          <include name="configAc"/>
+        </methods>
+      </class> <!-- com.vTiger.testscripts.DeleteVendorTest -->
+      <class name="com.vTiger.testscripts.CreateLeadTest">
+        <methods>
+          <include name="createLead"/>
+          <include name="configAm"/>
+          <include name="configBc"/>
+          <include name="configBM"/>
+          <include name="configAc"/>
+        </methods>
+      </class> <!-- com.vTiger.testscripts.CreateLeadTest -->
+      <class name="com.vTiger.testscripts.DeleteAllContactTest">
+        <methods>
+          <include name="deleteAllContact"/>
+          <include name="configAm"/>
+          <include name="configBc"/>
+          <include name="configBM"/>
+          <include name="configAc"/>
+        </methods>
+      </class> <!-- com.vTiger.testscripts.DeleteAllContactTest -->
+      <class name="com.vTiger.testscripts.DeleteLeadTest">
+        <methods>
+          <include name="deleteLead"/>
+          <include name="configAm"/>
+          <include name="configBc"/>
+          <include name="configBM"/>
+          <include name="configAc"/>
+        </methods>
+      </class> <!-- com.vTiger.testscripts.DeleteLeadTest -->
+      <class name="com.vTiger.testscripts.CreateVendorTest">
+        <methods>
+          <include name="configAm"/>
+          <include name="configBc"/>
+          <include name="configBM"/>
+          <include name="createVendor"/>
+          <include name="configAc"/>
+        </methods>
+      </class> <!-- com.vTiger.testscripts.CreateVendorTest -->
+    </classes>
+  </test> <!-- Surefire test(failed) -->
+</suite> <!-- Failed suite [Surefire suite] -->

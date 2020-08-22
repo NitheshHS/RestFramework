@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="99600" started-at="2020-08-16T19:07:46 IST" finished-at="2020-08-16T19:09:26 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="99600" started-at="2020-08-16T19:07:46 IST" finished-at="2020-08-16T19:09:26 IST">
+      <class name="com.NewApp.Test.LoginAndLogoutTest">
+        <test-method status="PASS" signature="configBS()[pri:0, instance:com.NewApp.Test.LoginAndLogoutTest@1f7030a6]" name="configBS" is-config="true" duration-ms="32" started-at="2020-08-16T19:07:46 IST" finished-at="2020-08-16T19:07:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBS -->
+        <test-method status="PASS" signature="configBC()[pri:0, instance:com.NewApp.Test.LoginAndLogoutTest@1f7030a6]" name="configBC" is-config="true" duration-ms="29860" started-at="2020-08-16T19:07:46 IST" finished-at="2020-08-16T19:08:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method status="PASS" signature="configBM()[pri:0, instance:com.NewApp.Test.LoginAndLogoutTest@1f7030a6]" name="configBM" is-config="true" duration-ms="5628" started-at="2020-08-16T19:08:16 IST" finished-at="2020-08-16T19:08:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method status="PASS" signature="test()[pri:0, instance:com.NewApp.Test.LoginAndLogoutTest@1f7030a6]" name="test" duration-ms="24" started-at="2020-08-16T19:08:22 IST" finished-at="2020-08-16T19:08:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="configAM()[pri:0, instance:com.NewApp.Test.LoginAndLogoutTest@1f7030a6]" name="configAM" is-config="true" duration-ms="61370" started-at="2020-08-16T19:08:22 IST" finished-at="2020-08-16T19:09:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method status="PASS" signature="configAC()[pri:0, instance:com.NewApp.Test.LoginAndLogoutTest@1f7030a6]" name="configAC" is-config="true" duration-ms="2585" started-at="2020-08-16T19:09:23 IST" finished-at="2020-08-16T19:09:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAC -->
+        <test-method status="PASS" signature="configAT()[pri:0, instance:com.NewApp.Test.LoginAndLogoutTest@1f7030a6]" name="configAT" is-config="true" duration-ms="0" started-at="2020-08-16T19:09:26 IST" finished-at="2020-08-16T19:09:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAT -->
+      </class> <!-- com.NewApp.Test.LoginAndLogoutTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

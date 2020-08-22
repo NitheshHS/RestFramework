@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="20131" started-at="2020-08-19T04:42:39Z" finished-at="2020-08-19T04:42:59Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="20131" started-at="2020-08-19T04:42:39Z" finished-at="2020-08-19T04:42:59Z">
+      <class name="com.rmg.pathAndQueryparamter.GetAllProjectFromGit">
+        <test-method status="PASS" signature="getAllrepo()[pri:0, instance:com.rmg.pathAndQueryparamter.GetAllProjectFromGit@7d9d1a19]" name="getAllrepo" duration-ms="19992" started-at="2020-08-19T04:42:39Z" finished-at="2020-08-19T04:42:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAllrepo -->
+      </class> <!-- com.rmg.pathAndQueryparamter.GetAllProjectFromGit -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

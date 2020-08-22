@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[log in to vTiger]]>
+    </line>
+    <line>
+      <![CDATA[click on create contact Link]]>
+    </line>
+    <line>
+      <![CDATA[Select salutaion]]>
+    </line>
+    <line>
+      <![CDATA[enter firstname]]>
+    </line>
+    <line>
+      <![CDATA[enter lastname]]>
+    </line>
+    <line>
+      <![CDATA[move to user icon]]>
+    </line>
+    <line>
+      <![CDATA[click on signoutLink]]>
+    </line>
+    <line>
+      <![CDATA[log in to vTiger]]>
+    </line>
+    <line>
+      <![CDATA[click on create contact Link]]>
+    </line>
+    <line>
+      <![CDATA[Select salutaion]]>
+    </line>
+    <line>
+      <![CDATA[enter firstname]]>
+    </line>
+    <line>
+      <![CDATA[enter lastname]]>
+    </line>
+    <line>
+      <![CDATA[move to user icon]]>
+    </line>
+    <line>
+      <![CDATA[click on signoutLink]]>
+    </line>
+    <line>
+      <![CDATA[log in to vTiger]]>
+    </line>
+    <line>
+      <![CDATA[Click on leadLink]]>
+    </line>
+    <line>
+      <![CDATA[click on create lead icon(+)]]>
+    </line>
+    <line>
+      <![CDATA[saluating first name]]>
+    </line>
+    <line>
+      <![CDATA[enter first name]]>
+    </line>
+    <line>
+      <![CDATA[enter last name]]>
+    </line>
+    <line>
+      <![CDATA[enter company name]]>
+    </line>
+    <line>
+      <![CDATA[enter designation]]>
+    </line>
+    <line>
+      <![CDATA[Saluating leadsource]]>
+    </line>
+    <line>
+      <![CDATA[saluating industry]]>
+    </line>
+    <line>
+      <![CDATA[enter annual revenue]]>
+    </line>
+    <line>
+      <![CDATA[enter Employees]]>
+    </line>
+    <line>
+      <![CDATA[enter secondary mail]]>
+    </line>
+    <line>
+      <![CDATA[enter phone no]]>
+    </line>
+    <line>
+      <![CDATA[enter mobile no]]>
+    </line>
+    <line>
+      <![CDATA[enter fax]]>
+    </line>
+    <line>
+      <![CDATA[enter email]]>
+    </line>
+    <line>
+      <![CDATA[enter website]]>
+    </line>
+    <line>
+      <![CDATA[saluating leadstatus]]>
+    </line>
+    <line>
+      <![CDATA[saluating drop]]>
+    </line>
+    <line>
+      <![CDATA[click on save]]>
+    </line>
+    <line>
+      <![CDATA[comparing actual with expected]]>
+    </line>
+    <line>
+      <![CDATA[move to user icon]]>
+    </line>
+    <line>
+      <![CDATA[click on signoutLink]]>
+    </line>
+    <line>
+      <![CDATA[log in to vTiger]]>
+    </line>
+    <line>
+      <![CDATA[Click on leadLink]]>
+    </line>
+    <line>
+      <![CDATA[click on create lead icon(+)]]>
+    </line>
+    <line>
+      <![CDATA[saluating first name]]>
+    </line>
+    <line>
+      <![CDATA[enter first name]]>
+    </line>
+    <line>
+      <![CDATA[enter last name]]>
+    </line>
+    <line>
+      <![CDATA[enter company name]]>
+    </line>
+    <line>
+      <![CDATA[enter designation]]>
+    </line>
+    <line>
+      <![CDATA[Saluating leadsource]]>
+    </line>
+    <line>
+      <![CDATA[saluating industry]]>
+    </line>
+    <line>
+      <![CDATA[enter annual revenue]]>
+    </line>
+    <line>
+      <![CDATA[enter Employees]]>
+    </line>
+    <line>
+      <![CDATA[enter secondary mail]]>
+    </line>
+    <line>
+      <![CDATA[enter phone no]]>
+    </line>
+    <line>
+      <![CDATA[enter mobile no]]>
+    </line>
+    <line>
+      <![CDATA[enter fax]]>
+    </line>
+    <line>
+      <![CDATA[enter email]]>
+    </line>
+    <line>
+      <![CDATA[enter website]]>
+    </line>
+    <line>
+      <![CDATA[saluating leadstatus]]>
+    </line>
+    <line>
+      <![CDATA[saluating drop]]>
+    </line>
+    <line>
+      <![CDATA[click on save]]>
+    </line>
+    <line>
+      <![CDATA[comparing actual with expected]]>
+    </line>
+    <line>
+      <![CDATA[move to user icon]]>
+    </line>
+    <line>
+      <![CDATA[click on signoutLink]]>
+    </line>
+    <line>
+      <![CDATA[log in to vTiger]]>
+    </line>
+    <line>
+      <![CDATA[click on organization link in home page]]>
+    </line>
+    <line>
+      <![CDATA[click on create organization(+)]]>
+    </line>
+    <line>
+      <![CDATA[enter organization name]]>
+    </line>
+    <line>
+      <![CDATA[click on save button]]>
+    </line>
+    <line>
+      <![CDATA[Verify expected result with actual reault]]>
+    </line>
+    <line>
+      <![CDATA[move to user icon]]>
+    </line>
+    <line>
+      <![CDATA[click on signoutLink]]>
+    </line>
+    <line>
+      <![CDATA[log in to vTiger]]>
+    </line>
+    <line>
+      <![CDATA[move to user icon]]>
+    </line>
+    <line>
+      <![CDATA[click on signoutLink]]>
+    </line>
+    <line>
+      <![CDATA[log in to vTiger]]>
+    </line>
+    <line>
+      <![CDATA[move to more link]]>
+    </line>
+    <line>
+      <![CDATA[click on vendor Icon]]>
+    </line>
+    <line>
+      <![CDATA[enter vendor name]]>
+    </line>
+    <line>
+      <![CDATA[click on save]]>
+    </line>
+    <line>
+      <![CDATA[move to user icon]]>
+    </line>
+    <line>
+      <![CDATA[click on signoutLink]]>
+    </line>
+    <line>
+      <![CDATA[log in to vTiger]]>
+    </line>
+    <line>
+      <![CDATA[click on conatct link]]>
+    </line>
+    <line>
+      <![CDATA[click on checkbox]]>
+    </line>
+    <line>
+      <![CDATA[click on delete button]]>
+    </line>
+    <line>
+      <![CDATA[move to user icon]]>
+    </line>
+    <line>
+      <![CDATA[click on signoutLink]]>
+    </line>
+    <line>
+      <![CDATA[log in to vTiger]]>
+    </line>
+    <line>
+      <![CDATA[click on organization link in home page]]>
+    </line>
+    <line>
+      <![CDATA[click on check box]]>
+    </line>
+    <line>
+      <![CDATA[click on delete button]]>
+    </line>
+    <line>
+      <![CDATA[move to user icon]]>
+    </line>
+    <line>
+      <![CDATA[click on signoutLink]]>
+    </line>
+    <line>
+      <![CDATA[log in to vTiger]]>
+    </line>
+    <line>
+      <![CDATA[delete lead]]>
+    </line>
+    <line>
+      <![CDATA[move to user icon]]>
+    </line>
+    <line>
+      <![CDATA[click on signoutLink]]>
+    </line>
+    <line>
+      <![CDATA[log in to vTiger]]>
+    </line>
+    <line>
+      <![CDATA[move to more link]]>
+    </line>
+    <line>
+      <![CDATA[delete vendor]]>
+    </line>
+    <line>
+      <![CDATA[move to user icon]]>
+    </line>
+    <line>
+      <![CDATA[click on signoutLink]]>
+    </line>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="63" started-at="2020-06-08T06:40:01Z" finished-at="2020-06-08T06:40:01Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="63" started-at="2020-06-08T06:40:01Z" finished-at="2020-06-08T06:40:01Z">
+      <class name="com.vTigerMaven.AppTest">
+        <test-method status="PASS" signature="shouldAnswerWithTrue()" name="shouldAnswerWithTrue" duration-ms="8" started-at="2020-06-08T06:40:01Z" finished-at="2020-06-08T06:40:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shouldAnswerWithTrue -->
+      </class> <!-- com.vTigerMaven.AppTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
